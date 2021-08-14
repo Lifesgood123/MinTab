@@ -4,6 +4,14 @@ const CONFIG = {
 
 const ICONS = [
   {
+    icon: "ri-book-3-fill",
+    link: "https://uncg.instructure.com/"
+  },
+  {
+    icon: "ri-mail-fill",
+    link: "mail.uncg.edu"
+  },
+  {
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/"
   },
@@ -35,7 +43,15 @@ const LIST_ITEMS = [
     link: "https://www.reddit.com/r/unixporn/"
   },
   {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
+    name: "tor",
+    link: "https://www.tor.com"
+  },
+  {
+    name: "Hackernews",
+    link: "news.ycombinator.com"
+  },
+  {
+    name: "Hackaday",
+    link: "https://hackaday.com/"
   },
 ]
